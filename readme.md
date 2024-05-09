@@ -14,7 +14,7 @@ Pinterest Clone is a web application inspired by the popular social media platfo
 ## Demo
 - **Live Preview :-**[ Click Here](https://pinterest-clone-jyqc.onrender.com/)
 - **Username :-** `demo`
-- **Password :-** `demo`
+- **Password :-** `demo123`
 
 ## Features
 

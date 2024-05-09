@@ -11,6 +11,11 @@
 
 Pinterest Clone is a web application inspired by the popular social media platform Pinterest. It allows users to create and share visual content, organize ideas, and discover new inspirations. This project serves as a learning exercise for building a full-stack web application using technologies such as Node.js, Express, MongoDB, and EJS.
 
+## Demo
+[**Live Preview :-**](https://pinterest-clone-jyqc.onrender.com/)
+**Username :-** `demo`
+**Password :-** `demo`
+
 ## Features
 
 - **User Authentication:** Register, log in, and log out securely using Passport.js.
